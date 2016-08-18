@@ -1,0 +1,19 @@
+{
+  "name": "suntype",
+  "version": "0.0.1",
+  "description": "typo library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typography",
+    "typo",
+    "text"
+  ],
+  "author": "sunwoo",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
